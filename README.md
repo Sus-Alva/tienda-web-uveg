@@ -9,4 +9,4 @@ Aplicación web desarrollada como tienda virtual (e-commerce básico) para el m�
 3. **Despliegue:** Se configuró un entorno de servidor web simulado localmente mediante Apache/Nginx.
 
 ## Autor
-- Pérez Alvarado Kevin de Jesús / 24006383
+- Pérez Alvarado Kevin de Jesús / 24006383"# tienda-web-uveg" 
